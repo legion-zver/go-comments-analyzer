@@ -1,0 +1,5 @@
+[deps] 
+github.com/kardianos/osext = 
+github.com/kataras/iris/iris = 
+github.com/legion-zver/shield =  
+github.com/iris-contrib/middleware/cors =  
